@@ -7,6 +7,7 @@ using System.Text;
  * Date:july 28, 2017
  * Description: this interface defines MoonCount.
  * Version:0.1- interface IHasMoon.
+ * https://github.com/JasleenShergill/assignment04-300929376
  */
 namespace assignment04_300929376 
 {

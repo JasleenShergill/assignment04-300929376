@@ -7,6 +7,7 @@ using System.Text;
  * Date: July 28,2017
  * Description: this is inhert of planet class
  * Version:0.1 created GiantPlanet class
+ * https://github.com/JasleenShergill/assignment04-300929376
  * */
 namespace assignment04_300929376
 {
