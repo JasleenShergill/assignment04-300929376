@@ -26,6 +26,7 @@ namespace assignment04_300929376
             GiantPlanet giantPlanet = new GiantPlanet("Venus", 15674, 617.8, "GAS");
            TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("Mercury", 14563, 6.3452, true);
             giantPlanet.ToString();
+            Console.ReadLine( );
             terrestrialPlanet.ToString();
             Console.WriteLine("#############################################################################################################");
             Program.WAITFORANYKEY();
