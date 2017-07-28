@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace assignment04_300929376
 {
-    class Program
+    class Planet
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
