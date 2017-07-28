@@ -15,8 +15,8 @@ namespace assignment04_300929376
     {
         static void Main(string[] args)
         {
-            GiantPlanet giantPlanet = new GiantPlanet("Jupiter", 139822, 317.8, "GAS");
-            TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("EARTH", 12742, 5.9722, true);
+            GiantPlanet giantPlanet = new GiantPlanet("Venus", 15674, 617.8, "GAS");
+            TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("Mercury", 14563, 6.3452, true);
             giantPlanet.ToString();
             terrestrialPlanet.ToString();
             Program.WAITFORANYKEY();
