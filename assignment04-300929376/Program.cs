@@ -15,7 +15,12 @@ namespace assignment04_300929376
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\n @-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@- PLANET INFORMATION @-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@-@@-@-@-@-@-@-@\n");
+            Console.WriteLine("LET'S KNOW ABOUT PLANETS");
+            Console.WriteLine(" 1) Mercury,\n  2) Venus,\n  3) Earth,\n  4) Mars,\n 5) Jupiter,\n  6)Saturn,\n  7)Uranus, \n  8)Neptune .");
+            
             GiantPlanet giantPlanet = new GiantPlanet("Venus", 15674, 617.8, "GAS");
+            
             TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("Mercury", 14563, 6.3452, true);
             giantPlanet.ToString();
             terrestrialPlanet.ToString();

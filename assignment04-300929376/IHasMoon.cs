@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 /*
  * Name: Jasleen
- * date:july 28, 2017
- * description: this interface defines MoonCount.
- * version:0.1- interface IHasMoon.
+ * Date:july 28, 2017
+ * Description: this interface defines MoonCount.
+ * Version:0.1- interface IHasMoon.
  */
 namespace assignment04_300929376 
 {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 /*
- * name: Jasleen
- * date:july 28, 2017
- * description: this an interface
- * version:0.1-  interface IHabital.
+ * Name: Jasleen
+ * Date:july 28, 2017
+ * Description: this an interface
+ * Version:0.1-  interface IHabital.
  */
 namespace assignment04_300929376
 {
