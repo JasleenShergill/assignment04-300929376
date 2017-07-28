@@ -8,5 +8,6 @@ namespace assignment04_300929376
 {
     class TerrestrialPlanet
     {
+
     }
 }
